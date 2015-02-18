@@ -1,5 +1,12 @@
-# material-ui-example
-An example website using Material UI.
+Material UI (example)
+====
+
+An *example website* using **Material UI**.
+
+## Installation
+
+Read the [Installation.md](https://github.com/SuriyaaKudoIsc/material-ui-example/blob/master/INSTALL.md) file.
+
 
 ## Links
 
@@ -8,4 +15,8 @@ An example website using Material UI.
 
 ## License
 
-MIT License (http://suriyaakudo.mit-license.org/) -- Copyright (c) *2015-present* **Suriyaa Kudo**
+[MIT License](http://suriyaakudo.mit-license.org/)
+
+
+----
+Copyright (c) *2015-present* **Suriyaa Kudo**
