@@ -3,6 +3,8 @@ Material-UI (example)
 
 An *example website* using **Material-UI**.
 
+*A CSS Framework and a Set of React Components that Implement Google's Material Design.*
+
 ## Installation
 
 Read the [Installation.md](https://github.com/SuriyaaKudoIsc/material-ui-example/blob/master/INSTALL.md) file.
