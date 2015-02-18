@@ -1,7 +1,7 @@
-Material UI (example)
+Material-UI (example)
 ====
 
-An *example website* using **Material UI**.
+An *example website* using **Material-UI**.
 
 ## Installation
 
@@ -10,7 +10,7 @@ Read the [Installation.md](https://github.com/SuriyaaKudoIsc/material-ui-example
 
 ## Links
 
-* [Material UI](http://material-ui.com/#/get-started)
+* [Material-UI](http://material-ui.com/#/get-started)
 * [GitHub example: @callemall/material-ui](https://github.com/callemall/material-ui/tree/master/example)
 
 ## License
